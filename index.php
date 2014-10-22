@@ -27,6 +27,7 @@
                     PHP modules, speeding processing.
     21/08/2014 -    Looks pretty much finished to me.  CSS is pretty hoopy!  That
                     was a 37 hour shift!!!!  Too tired to sleep!!
+    23/09/2014 -    Fix Javascript audio bugs   MA
 -->
 
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
@@ -46,15 +47,9 @@
 <!-- Place favicon.ico and apple-touch-icon.png in root directory -->
         
 <link href="css/style.css" rel="stylesheet" />
-<link href="css/lawrence.css" rel="stylesheet" />
 
 <link rel="stylesheet" type="text/css" href="css/style2.css" />
 <link rel="stylesheet" href="AudioPlayer/css/audioplayer.css" />
-
-<script src="AudioPlayer/js/jquery.js"></script>
-<script src="AudioPlayer/js/audioplayer.js"></script>
-
-<script>$( function() { $( 'audio' ).audioPlayer(); } );</script>
 
 <script type="text/javascript" src="js/modernizr.custom.86080.js"></script>
 

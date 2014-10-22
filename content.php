@@ -15,12 +15,11 @@
 //              we just stick in some content here that can be easily managed
 //              with a TEXT EDITOR.
 //
-//              **** DO NOT USE WORD!!! ******
 //
 //------------+-------------------------------+------------
 // DATE       |    CHANGE                     |    WHO
 //------------+-------------------------------+------------
-//
+// 23/09/2014 | Fix Javascript audio bugs     | MA
 //
 
 
@@ -110,14 +109,18 @@ END;
 
 
 $footer_javascript = <<<END
-    <!-- Minimized jQuery from Google CDN -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <script src="AudioPlayer/js/jquery.js"></script>
+
     <!-- HTML5 IE Enabling Script -->
     <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <!-- CSS3 Media Queries -->
     <script src="js/respond.min.js"></script>
-    <!-- Optimized Google Analytics. Change UA-XXXXX-X to your site ID -->
-    <script>var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s)}(document,'script'))</script>
+
+
+    <script src="AudioPlayer/js/audioplayer.js"></script>
+
+    <script>$( function() { $( 'audio' ).audioPlayer(); } );</script>
+
 END;
 
 
