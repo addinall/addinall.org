@@ -39,7 +39,8 @@ END;
 // on the screen in paragraph one.  That is ALL I want this file to do.  So fuck off, weenies.
 
 $header_paragraph = <<<END
-Thanks for visiting my site.  Before we go anywhere, I have to make a point so as not to dissapoint.  <em>I DO NOT USE PHP MVC Frameworks.</em>  I know how they work, I have used all of them and I think that every last one of the clunkers are worse than rubbish.  So if you have a CodeIgniter, CakePHP, Symfony, Xii or Zend Framework task in mind, look ye elsewhere.  Seriously, the dozen or so projects I have worked on that tried to build an application using one of these systems all went the same way.  First three weeks were just <em>DANDY!</em>  Then when the application started to get complex, the design fell in a heap, leaving non-working, un-maintainable code. So no thanks.  I also <em>NO LONGER</em> do Java (love Javascript) because it is fat, old, slow and ugly.  I don&#8217;t do Haskell, Ruby, Scala, C# or F# for very similar reasons.  Now that we have covered what I <em>DON&#8217;T</em> do, let&#8217;s have a look at what I <em>DO</em> do! 
+        Thanks for visiting my site!  Before we go anywhere, I have to make a point.  <em>I am not keen on PHP MVC Frameworks.</em>  I know how they work, I have used all of them and I can not see the point in the modern world of responsive design and AJaXy - AngularJS types of design. Also frameworks encourage people to write messy code. So if you have a CodeIgniter, CakePHP, Symfony, Xii or Zend Framework task in mind, the code had better be clean.  Seriously, the dozen or so projects I have worked on that tried to build an application using one of these systems all went the same way.  First three weeks were just <em>DANDY!</em>  Then when the application started to get complex, the design fell in a heap, leaving non-working, un-maintainable code. I also <em>NO LONGER</em> do Java (love Javascript) because it is fat, old, slow and ugly.  I don't do Haskell, Ruby, Scala or F# for very similar reasons.  Now that we have covered what I <em>DON'T</em> do, let's have a look at what I <em>DO</em> do! 
+      </p>
 END;
 
 // This is the END of the HEADER CONTENT
@@ -68,7 +69,7 @@ The stuff down below is some music I have gathered to have a play with the HTML5
 END;
 
 $paragraph_one = <<<END
-PHP has been my major weapon of choice for over a decade now.  It is a simple and elegant little language that is <em>MESSED UP</em> on a regular basis by people trying to implement MVC garbage.  When used properly PHP allows us to develop modular, reliable and easy to maintain source code for applications small and large. I would think that PHP represent around 75% of my total work to date. 
+PHP has been my major weapon of choice for over a decade now.  It is a simple and elegant little language that is <em>MESSED UP</em> on a regular basis by people trying to be too clever by half. <em>KISS</em>.  When used properly PHP allows us to develop modular, reliable and easy to maintain source code for applications small and large. I would think that PHP represent around 75% of my total work to date. 
 END;
 
 $paragraph_two = <<<END
