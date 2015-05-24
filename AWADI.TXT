@@ -1,0 +1,48 @@
+-----------------------------------------------------------
+24/03 '95 16:27 61 2 887 7919 AWADI PARAKEET >>> PROJECT
+OFFICE 002/101
+
+PROJECT PARAKEET 4.1/4.2
+
+SYSCOM SOFTWARE PRELIMINARY DESIGN REVIEW
+
+MEETING DATE 28 March - 30 March 1995
+
+MEETING TIME 09:00 - 17:00
+
+MEETING LOCATION SSA Mitchell
+Conference Room
+
+PURPOSE OF MEETING SYSCOM Software Preliminary
+Design Review
+
+LIST OF MEETING PARTICIPANTS
+
+
+AWA Defence Industries Attendees
+
+E. Poultney( Part Time ) J. Magrin
+J. Makepeace B. Gilbert
+M. Addinall A. Pedersen
+
+
+Tadiran Attendees
+
+Edna Cahanovitc
+
+Commonwealth Attendees
+
+Lt. Col. John Collins Maj. R. Van Kuyk
+FltLt. N. Padovan WO2 S. Grossmith
+K. Billingham P. Bryan
+D. Sainty K. Sutherland
+
+Presentation - PARAKEET Syscom 7a. PDR Design Issues
+M. Addinall
+
+Presentation - PARAKEET Syscom. Design Baselines.
+M. Addinall
+
+
+AWADI
+---------------------------------------------------------
