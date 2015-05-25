@@ -79,7 +79,7 @@ END;
 $paragraph_three = <<<END
 <p>Goes without saying really, but unless you spell it out, the people that infest the HR departments of the Yooniverse get all confused, twisted and bitter.  I am well experienced in HTML (of all flavours, I concentrate on HTML5 these days), CSS3, responsive Web design for mobile devices. I am having a lot of fun learning and exploring the CSS3 transitions and animations.  Some play code is <a href="http://www.addinall.net/boxmenu" target="_blank">HERE</a>.  Having a play and a think about how more interactive choices could be made in a UI design!</p>
     <p>Again I can not see how anyone could AVOID Javascript.  I have had several years coding both native Javascript and jQuery framework.  I enjoy them both. </p>
-<p>Here are a couple of sites/apps I finished recently. <a href="http://www.crosscitydjs.com.au" target="_blank">Cross City DJs</a> and <a href="http://www.crosscitydjs.com.au/eportfolio" target="_blank">Same customer, newer page</a>.   
+<p>Here are a couple of sites/apps I finished recently. <a href="http://www.crosscitydjs.com.au" target="_blank">Cross City DJs</a> and <a href="http://www.crosscitydjs.com.au/eportfolio" target="_blank">Same customer, newer page</a>.  Somewhat sadly I taught the owner how to use Wordpress CMS and what was once a couple of lovely sites now really look and feel BLOODY AWFUL.  My name has gone away from the footer.  "The customer is always right".  Except when they are colour blind and talentless.  NO LONGER MY DESIGN.
 END;
 
 $paragraph_four = <<<END
