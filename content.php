@@ -88,6 +88,9 @@ I have <em>ALWAYS</em> been the administrator of my development machines.  In a 
 <p>
 Very experienced SQL coder in many flavours.  They are all pretty much a muchness.  I spent a good deal of time coding in ORACLE PL/SQL, most notably for the Australian Bureau of Statistics on the new (2006) implementation of the population demographic collection and analysis software. 
 </p>
+<p>
+If nothing else, versatile, here are a few things you seldom see in a Web developers CV.  <a href="https://github.com/addinall/Programming-Supercomputers" target="_blank">SUPERCOMPUTERS!</a>  I was lucky enough to be allowed on a course that uses Tulip, the biggest and fastest super computer in the country, 170,000 cores.  Master class sponsered by SGI and Charles Stuart University. And, "Sciency" stuff in the <a href="https://github.com/addinall/Data-Science-Caching-large-vectors" target="_blank">R</a> Programming language.  Part of my Data Scientist specialisation at Johns Hopkins University.  Neat hey?
+</p>
 END;
 
 $footer_paragraph = <<<END
